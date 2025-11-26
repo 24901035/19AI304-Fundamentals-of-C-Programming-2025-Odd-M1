@@ -12,7 +12,7 @@ To build a C program that prints integer, float,character, and string literals o
   Start
 ### Step 2: 
   Include the standard input-output library: #include<stdio.h>.
-### Step 3: 
+### Step 3:
   Inside the main() function, use printf() to display each literal along with its size in bytes using sizeof() :
   
    3.1 Integer literal (e.g., 10) using `%d`
